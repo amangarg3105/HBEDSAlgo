@@ -1,6 +1,7 @@
 package matrix;
 
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class SetMatrixZero {
@@ -89,7 +90,5 @@ public class SetMatrixZero {
             }
             System.out.println();
         }
-
-
     }
 }
